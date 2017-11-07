@@ -30,7 +30,7 @@ import jdraw.framework.Figure;
  * @author Dominik Gruntz & Christoph Denzler
  * @version 2.6, 24.09.09
  */
-public class StdContext extends AbstractContext {
+public class StdContext extends AbstractContext{
 
 	/**
 	 * Constructs a standard context with a default set of drawing tools.
